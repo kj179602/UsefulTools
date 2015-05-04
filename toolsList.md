@@ -22,3 +22,4 @@ Kamil Woźniak 180308 - launchpad <br/>
 Piotr Bednarek 180132 - Redmine <br/>
 Jakub Michalak 180244 - Kanbanery <br/>
 Damian Kłys 180202 - Assembla <br/>
+Katarzyna Jordan 179602 - LibrePlan Online <br/>
